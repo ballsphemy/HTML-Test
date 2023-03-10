@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(32, 32, 109);
+    color: white;
+    font-size: 21px;
+}
+p {
+    color: rgb(89, 0, 255);
+}
+
+h1 {
+    font-size: 70px;
+    color: pink;
+}
+
+h2 {
+    font-size: 45px;
+    color: pink;
+}
+
+div {
+    background: pink;
+    width: 500px;
+    height: 500px;
+}
+span {
+    color: green;
+    size: 40px;
+    font-weight: bolder;
+}
