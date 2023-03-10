@@ -3,13 +3,18 @@ body {
     color: white;
     font-size: 21px;
 }
-p {
-    color: rgb(89, 0, 255);
-}
 
 h1 {
     font-size: 70px;
     color: pink;
+}
+
+.first-para {
+    font-size: 45px;
+    color: yellow;
+}
+.highlights {
+    background-color: orange;
 }
 
 h2 {
@@ -17,13 +22,13 @@ h2 {
     color: pink;
 }
 
-div {
-    background: pink;
-    width: 500px;
-    height: 500px;
-}
-span {
+.top-section {
     color: green;
-    size: 40px;
-    font-weight: bolder;
+    background-color: black;
 }
+
+.bottom-section {
+    color: red;
+    background-color: black;
+}
+

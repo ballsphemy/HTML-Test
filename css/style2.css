@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+div {
+    color: whitesmoke;
+}
+
+h1 {
+    color: whitesmoke;
+}
+.box {
+    background-color: yellow;
+    color: black;
+    width: 300px;
+    margin: 50px;
+    border: pink;
+    padding: 50px;
+    border-style: solid;
+
+}
+
+.box2 {
+    background-color: blue;
+    width: 300px;
+    margin: 50px;
+    border: pink;
+    padding: 50px;
+    border-style: solid;
+}
+
+.box3 {
+    background-color: blue;
+    width: 300px;
+    margin: 100px 50px -300px;
+    border: pink;
+    padding: 50px;
+    border-style: solid;
+
+}
