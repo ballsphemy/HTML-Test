@@ -1,6 +1,5 @@
 body {
-    background-image: url(../img/denim.webp);
-    background-repeat: repeat;
+    background-color: black;
 }
 div {
     color: whitesmoke;
@@ -11,13 +10,12 @@ h1 {
 }
 .box {
     background-color: yellow;
-    color: white;
+    color: black;
     width: 300px;
     margin: 50px;
     border: pink;
     padding: 50px;
     border-style: solid;
-    background-image: url(../img/pompei.jpg);
 
 }
 
@@ -28,16 +26,15 @@ h1 {
     border: pink;
     padding: 50px;
     border-style: solid;
-    background-image: url(../img/pompei.jpg);
 }
 
 .box3 {
-    background-color: blue;
+    background-color: yellow;
+    color: black;
     width: 300px;
-    margin: 100px 50px -300px;
+    margin: 50px;
     border: pink;
-    padding: 10px 25px;
+    padding: 50px;
     border-style: solid;
-    background-image: url(../img/pompei.jpg);
 
 }
