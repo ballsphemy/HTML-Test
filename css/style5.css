@@ -1,0 +1,46 @@
+
+body {
+    background-color: rgb(96, 96, 206);
+    color: rgb(241, 198, 106);
+    margin: auto;
+}
+
+h1 { 
+    font-family: sans-serif;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 1.4;
+    text-align: justify;
+}
+
+.bold {
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+.bolder {
+    font-weight: bolder;
+    text-decoration: overline;
+}
+a:link {
+    color: black;
+}
+a:hover {
+    color: yellow;
+}
+a:active {
+    color: red;
+}
+a:focus {
+    color: green;
+}
