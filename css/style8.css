@@ -1,0 +1,41 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    float: left;
+}
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    float: right;
+}
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+.box3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.box4 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+.box5 {
+    height: 100px;
+    width: 100px;
+    background-color: indigo;
+}
+
+.box6 {
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+}
